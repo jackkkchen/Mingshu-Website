@@ -11,9 +11,9 @@ image: "01.jpg"
 ## 科学上网工具
 专门针对GPT账户，三分钟自动更换IP，解决地区限制问题
 可以通过小猫咪Clash 或者 Shadowsocks 订阅配置
-网址 [zodacc.com](https://zodacc.com/)
+网址 zodacc.com
 
 ### 邀请链接
-<https://node.zasublink.com/auth/register?code=gdXv>
+https://node.zasublink.com/auth/register?code=gdXv
 
 邀请码：gdXv
