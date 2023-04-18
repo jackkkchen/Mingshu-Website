@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "明数科技"
+  navbar:
+    left:
+      - href: index.qmd
+        text: 主页
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
